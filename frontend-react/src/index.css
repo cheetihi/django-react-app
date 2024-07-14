@@ -9,7 +9,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-color: #abc4f7;
+  background-color: #83bddf;
 }
 .todo-title {
   cursor: pointer;
@@ -18,10 +18,10 @@ body {
   text-decoration: line-through;
 }
 .tab-list > span {
-  padding: 5px 8px;
+  padding: 10px 14px;
   border: 1px solid #282c34;
   border-radius: 10px;
-  margin-right: 5px;
+  margin-right: 15px;
   cursor: pointer;
 }
 .tab-list > span.active {
@@ -31,4 +31,5 @@ body {
 
 .btn-primary {
   float: right;
+  background-color: #8147c1;
 }
